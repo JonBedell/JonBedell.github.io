@@ -1,13 +1,13 @@
-### ABOUT ME
+## ABOUT ME
 
 Enthusiastic junior developer looking for a role in a full-stack development company.  Spent the past three years gaining project management and professional skills while working as an environmental compliance consultant.  Made a career change to engage in the creative and dynamic tech field.
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 
 **Proficient:**  Full-Stack .NET Certification, Object Oriented Programming (OOP), C#, .NET framework, Git, SQL,                       
 **Familiar:**  HTML, CSS, MATLAB
 
-### EDUCATION
+## EDUCATION
 
 **Tech Elevator** Cincinnati, OH
 14 week full-stack development course with a focus on .NET framework
@@ -27,7 +27,7 @@ _Creative Director_, Wayne Manor
 - Participated in weekly executive meetings  
 
 
-### TECHNICAL PROJECTS
+## TECHNICAL PROJECTS
 
 **Vending Machine**, Console Application  
 - Simulated a vending machine which could take in money from a user, let the user select and item, purchase the item and receive change
@@ -39,7 +39,7 @@ _Creative Director_, Wayne Manor
 - Included both Park wide search and individual campground search functions. 
 
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 
 
 **SCS Engineers**, Cincinnati, OH
