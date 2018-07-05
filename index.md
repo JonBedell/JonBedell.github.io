@@ -1,7 +1,3 @@
-## JON BEDELL
-
-[LinkedIn](https://www.linkedin.com/in/jon-bedell)
-
 ### ABOUT ME
 
 Enthusiastic junior developer looking for a role in a full-stack development company.  Spent the past three years gaining project management and professional skills while working as an environmental compliance consultant.  Made a career change to engage in the creative and dynamic tech field.
