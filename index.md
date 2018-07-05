@@ -27,7 +27,7 @@ _Creative Director_, Wayne Manor
 - Participated in weekly executive meetings  
 
 
-## TECHNICAL PROJECTS
+### TECHNICAL PROJECTS
 
 **Vending Machine**, Console Application  
 - Simulated a vending machine which could take in money from a user, let the user select and item, purchase the item and receive change
@@ -39,7 +39,7 @@ _Creative Director_, Wayne Manor
 - Included both Park wide search and individual campground search functions. 
 
 
-## PROFESSIONAL EXPERIENCE
+### PROFESSIONAL EXPERIENCE
 
 
 **SCS Engineers**, Cincinnati, OH
