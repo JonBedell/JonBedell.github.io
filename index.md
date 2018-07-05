@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## JON BEDELL
 
-You can use the [editor on GitHub](https://github.com/JonBedell/JonBedell.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[LinkedIn](https://www.linkedin.com/in/jon-bedell)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ABOUT ME
 
-### Markdown
+Enthusiastic junior developer looking for a role in a full-stack development company.  Spent the past three years gaining project management and professional skills while working as an environmental compliance consultant.  Made a career change to engage in the creative and dynamic tech field.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### TECHNICAL SKILLS
 
-```markdown
-Syntax highlighted code block
+**Proficient:**  Full-Stack .NET Certification, Object Oriented Programming (OOP), C#, .NET framework, Git, SQL,                       
+**Familiar:**  HTML, CSS, MATLAB
 
-# Header 1
-## Header 2
-### Header 3
+### EDUCATION
 
-- Bulleted
-- List
+**Tech Elevator** Cincinnati, OH
+14 week full-stack development course with a focus on .NET framework
+May 2018-Present
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**Duke University** Durham, NC  
+Bachelor of Science: Environmental Science  
+Minor: Visual Arts  
+May 2014  
+_Associate Editor/ Photographer_, The Chronicle
+- Prepared images and created graphics for print and online publication using Adobe suite	 
+- Photographed on and off campus events for multiple departments  
 
-[Link](url) and ![Image](src)
-```
+_Creative Director_, Wayne Manor  
+- Designed and managed creation of apparel and brand-related content for a selective living group  
+- Participated in weekly executive meetings  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## TECHNICAL PROJECTS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JonBedell/JonBedell.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Vending Machine**, Console Application  
+- Simulated a vending machine which could take in money from a user, let the user select and item, purchase the item and receive change
+- Loaded inventory, recorded total sales, and logged user interactions using text files.
 
-### Support or Contact
+**National Park Reservation System**, Console Application, SQL Server  
+- Communicated with a server to view, search, and make reservations at campsites within National Parks.
+- Allowed multiple search parameters, such as handicap accessibility and RV length.
+- Included both Park wide search and individual campground search functions. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## PROFESSIONAL EXPERIENCE
+
+
+**SCS Engineers**, Cincinnati, OH
+_June 2015 - April 2018_
+Associate Professional/Environmental Consultant
+- Managed a diverse base of 60+ clients including large banks, real estate companies, small businesses, and private homeowners
+- Provided environmental due diligence services including Phase I Environmental Site Assessments, Phase II Environmental Site - Assessments, stormwater control plans, spill prevention plans, and greenhouse gas monitoring reports
+- Designed private and commercial septic systems in AutoCAD and negotiated construction permit approvals with Hamilton County Public Health and Ohio EPA representatives
+- Performed field activities including surveying, air sampling, groundwater sampling, soil sampling, well installation, and injection-based remediation
+- Generated AutoCAD figures for several waste management projects such as groundwater contour maps, gas flare details, and boring locations for Tier II sampling.
+
+**Children’s Environmental Health Initiative**, Duke University, Durham, NC
+_June 2015 - April 2018_
+Intern
+- Multitasked on multiple projects involving HIV exposure among women in Durham, geographic location of criminal activity in the greater Durham area and traditional education access in India.
+- Collected/formatted excel data and converted said data to spatial maps using GIS software
